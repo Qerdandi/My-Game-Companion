@@ -162,7 +162,7 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 [Flee Launch Trailer](https://youtu.be/4gkywrKIdNM)
 
-**Release :** [Github](https://github.com/TakeUpTech/Projects/releases/tag/v1.29.11.21)
+**Release :** [itch.io](https://take-up-tech.itch.io/flee)
 
 ## Hacking Point Minigame
 
