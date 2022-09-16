@@ -189,8 +189,8 @@ For my first project in python and to put in practice, my personal training, I d
 # ./Software used :
 - Unity 3D - Video games
 - blender - 3D modelling and animation
-- Intellij IDEA - `Java & Dart`
-- Visual Studio Code - `Python & C#`
+- Intellij IDEA - `Java & Flutter(Dart)`
+- Visual Studio Code - `C#, Python, HTML, CSS & JavaScript`
 - Krita - 2D design
 
 # ./Links :
