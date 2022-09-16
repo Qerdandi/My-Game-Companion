@@ -154,7 +154,7 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 - Platform : PC
 
 **Description :** \
-This project is a rework of Space Escape, my first game : an escape game developed in 2017. The rework touches the code, UI, sounds and design, but the main goal still the same. In this horror game, your objective will be to explore an abandoned building in order to recover all artefacts therein. However, evil spirits rode, be careful, listen well, and eliminate them. With each attempt, the number of enemies, traps and knives as well as their positions change. Be careful, you only have 3 lives...
+This project is a rework of Space Escape, my first game : an escape game developed in 2017. The rework touches the code, UI, sounds and design, but the main goal still the same. In this horror game, your objective will be to explore an abandoned building in order to recover all artefacts therein and survive. However, evil spirits rode. Be careful, listen well, and eliminate them. With each attempt, the number of enemies, traps and knives as well as their positions change. Another thing, you only have 3 lives.
 
 <p align="center">
   <img width="768" alt="flee" src="https://user-images.githubusercontent.com/73184884/150544981-62638447-61a7-4903-823c-926b18096d85.png"/>
