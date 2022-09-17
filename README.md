@@ -132,24 +132,10 @@ This application is a game companion for multiple games. It's an extension for m
   <img width="768" alt="mygamescompanion" src="https://user-images.githubusercontent.com/73184884/177372447-de6ffd83-9741-4553-8b08-7646a0c4c1b6.png"/>
 </p>
 
-## Amadeus
-
-**Informations :** 
-- Date : 04/2021 - On break
-- Support : VSCode - Python
-- Platform : PC
-
-**Description :** \
-Amadeus project is an artificial intelligence coded in python. The main goal of this project is to recreate "Amadeus", the artificial intelligence of Steins;Gate 0.
-
-<p align="center">
-  <img width="768" alt="graphic" src="https://user-images.githubusercontent.com/73184884/125999025-db4194fe-261a-45cb-a1a7-a61a95883833.png"/>
-</p>
-
 ## Flee (Space Escape rework)
 
 **Informations :** 
-- Date : 08/2021
+- Date : 08/2021 - Updated
 - Support : Unity 3D - C#
 - Platform : PC
 
@@ -163,6 +149,16 @@ This project is a rework of Space Escape, my first game : an escape game develop
 [Flee Launch Trailer](https://youtu.be/4gkywrKIdNM)
 
 **Release :** [itch.io](https://take-up-tech.itch.io/flee)
+
+## Pill Dispenser Application
+
+**Informations :** 
+- Date : 01/2022 - 05/2022
+- Support : Unity 3D - C# and Arduio
+- Platform : PC
+
+**Description :** \
+As part of a school project called 'technical project', our goal was to design a programmable pill dispenser. It was capable of dispensing a patient's drug treatment. To do this, an application was developed on Unity in C# in order to communicate (via cable or bluetooth) with the pill dispenser running under Arduino. The application allows you to set the frequency of treatments, to follow the drug reserves in the pill dispenser and to enable a light and/or sound alarm when taking the treatment to alert the patient. The pill dispenser was designed on 3D Experience and printed with a 3D printer.
 
 ## Hacking Point Minigame
 
@@ -179,6 +175,20 @@ For my first project in python and to put in practice, my personal training, I d
 </p>
 
 **Release :** [Github](https://github.com/TakeUpTech/Hacking-Point-Minigame/releases/tag/V.1.07.07.22)
+
+## Amadeus
+
+**Informations :** 
+- Date : Project
+- Support : VSCode - Python
+- Platform : PC
+
+**Description :** \
+Amadeus project is an artificial intelligence coded in python. The main goal of this project is to recreate "Amadeus", the artificial intelligence of Steins;Gate 0.
+
+<p align="center">
+  <img width="768" alt="graphic" src="https://user-images.githubusercontent.com/73184884/125999025-db4194fe-261a-45cb-a1a7-a61a95883833.png"/>
+</p>
 
 # ./3D Modeling :
 
