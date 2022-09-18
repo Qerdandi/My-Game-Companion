@@ -1,4 +1,4 @@
-# Take Up Tech's Portfolio
+# My Portfolio
 > Here you will find an overview of all of my projects and releases present chronologically as a list.
 
 # ./Showreel :
