@@ -160,6 +160,10 @@ This project is a rework of Space Escape, my first game : an escape game develop
 **Description :** \
 As part of a school project called 'technical project', our goal was to design a programmable pill dispenser. It was capable of dispensing a patient's drug treatment. To do this, an application was developed on Unity in C# in order to communicate (via cable or bluetooth) with the pill dispenser running under Arduino. The application allows you to set the frequency of treatments, to follow the drug reserves in the pill dispenser and to enable a light and/or sound alarm when taking the treatment to alert the patient. The pill dispenser was designed on 3D Experience and printed with a 3D printer.
 
+<p align="center">
+  <img width="768" alt="pilldispenserapplicatiob" src="https://user-images.githubusercontent.com/73184884/190882019-bce8c510-a5bb-42ce-8a56-84d2e2f211ed.jpg"/>
+</p>
+
 ## Hacking Point Minigame
 
 **Informations :** 
