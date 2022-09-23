@@ -5,7 +5,7 @@
 
 Coming soon
 
-# ./Game Developpement:
+# ./Game Developement:
 
 ## Space Escape
 
