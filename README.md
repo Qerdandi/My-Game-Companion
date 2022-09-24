@@ -154,7 +154,7 @@ This project is a rework of Space Escape, my first game: an escape game develope
 
 **Informations:** 
 - Date: 01/2022 - 05/2022
-- Support: Unity 3D - C# and Arduio
+- Support: Unity 3D - C# and Arduino
 - Platform: PC
 
 **Description:** \
@@ -168,7 +168,7 @@ As part of a school project called 'technical project', our goal was to design a
 
 **Informations:** 
 - Date: 05/2022
-- Support: Python
+- Support: VSCode - Python
 - Platform: PC
 
 **Description:** \
