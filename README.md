@@ -27,3 +27,7 @@ Here is a preview of the game companion for Overwatch:
 <p align="center">
   <img width="720" alt="My_Game_Compnion_Game_2" src="https://user-images.githubusercontent.com/73184884/192666349-681f39fe-daaf-4a00-8e16-6524af5b736d.png">
 </p>
+
+## State:
+- [X] Work in progress
+- [ ] Work completed
