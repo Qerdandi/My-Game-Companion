@@ -7,3 +7,23 @@ Concerning Dead by Daylight companion, it must be updated regularly according to
 
 ## Gameplay:
 First of all, the main menu offers several game companions. The companion for Overwatch allows you to save your team compositions (player names and roles). The Dead by Daylight companion allows you to save your perks builds, generate random ones and have access to the list of all the perks of the game.
+
+<p align="center">
+  <img width="720" alt="pill_dispenser_3d" src="https://user-images.githubusercontent.com/73184884/192666257-8bc44bd3-e2d6-49cc-983f-215d9c8f9a86.png">
+</p>
+
+<p align="center">
+  <img width="720" alt="pill_dispenser_3d" src="https://user-images.githubusercontent.com/73184884/192666321-2fd971c5-6ec8-420b-8414-d084c6352a01.png">
+</p>
+
+<p align="center">
+  <img width="720" alt="My_Game_Compnion_Game" src="https://user-images.githubusercontent.com/73184884/192666321-2fd971c5-6ec8-420b-8414-d084c6352a01.png">
+</p>
+
+<p align="center">
+  <img width="720" alt="My_Game_Compnion_Game_3" src="https://user-images.githubusercontent.com/73184884/192666345-3eba49a1-97fb-427a-8b83-c80c91e1403c.png">
+</p>
+
+![My_Game_Compnion_Game]()
+![My_Game_Compnion_Game_3]()
+![My_Game_Compnion_Game_2](https://user-images.githubusercontent.com/73184884/192666349-681f39fe-daaf-4a00-8e16-6524af5b736d.png)
