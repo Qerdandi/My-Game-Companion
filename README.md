@@ -29,5 +29,5 @@ Here is a preview of the game companion for Overwatch:
 </p>
 
 ## State:
-- [X] Work in progress
-- [ ] Work completed
+- [ ] Work in progress
+- [X] Work completed
